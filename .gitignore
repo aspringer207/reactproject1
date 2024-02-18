@@ -1,0 +1,27 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+/.vs/reactproject1/FileContentIndex/904cede7-5d79-4ccf-afb6-a2433b4bcbfc.vsidx
+/.vs/reactproject1/FileContentIndex/5898c1fa-bfa8-4823-9d58-e51de16dbdb5.vsidx
+/.vs/reactproject1/FileContentIndex
